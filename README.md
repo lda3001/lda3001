@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   Hello, World! I'm DUCANHDZ
@@ -15,7 +16,10 @@
 🔹 Mọi dòng code đều là một câu chuyện thú vị!  
 
 ---
-
+<p align="center">
+  <img src="https://img.upanh.tv/2025/03/06/avatar.gif" height="180"/>
+  aaa
+</p>
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
