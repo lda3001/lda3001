@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/avatar.gif" height="180"/>
+  <img src="/animated.png" height="180"/>
   
 </p>
 <h1 align="center">
